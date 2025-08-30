@@ -1,6 +1,6 @@
 # Siamese Evolution: Learning Animal Similarity From Facial Images
 
-This repository contains the code and dataset preparation scripts for the prject “Siamese Evolution: Learning Animal Similarity From Facial Images.” The project explores evolutionary similarity by analyzing facial features of animals through Siamese network architectures with CLIP backbones.
+This repository contains the code and dataset preparation scripts for the project “Siamese Evolution: Learning Animal Similarity From Facial Images.” The project explores evolutionary similarity by analyzing facial features of animals through Siamese network architectures with CLIP backbones.
 
 **Overview**:
 
